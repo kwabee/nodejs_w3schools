@@ -1,6 +1,6 @@
 #nodejs_w3schools
 
-You'll need to download all the Node modules for file.
+You'll need to download all the required NodeJS modules.
 
 In terminal..
 
